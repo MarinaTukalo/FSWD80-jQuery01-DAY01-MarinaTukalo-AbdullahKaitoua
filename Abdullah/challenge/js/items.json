@@ -1,0 +1,43 @@
+var items = [
+{
+"name":"Milk",
+"price":"3 €",
+"status":"100 pieces",
+"image":"img/milk.jpg"
+},
+{
+"name":"orange",
+"price":"3 €",
+"status":"50",
+"image":"img/orange.jpg"
+},
+{
+"name":"Lemon",
+"price":"3 €",
+"status":"44 pieces",
+"image":"img/lemon.jpg"
+},
+{
+"name":"Bread",
+"price":"3 €",
+"status":"44 pieces",
+"image":"img/bread.jpg"
+},
+{
+"name":"Rice",
+"price":"3 €",
+"status":"44 pieces",
+"image":"img/rice.jpg"
+},
+{
+"name":"French Cheese",
+"price":"3 €",
+"status":"44 pieces",
+"image":"img/french.jpg"
+},
+{
+"name":"Coffee",
+"price":"3 €",
+"status":"44 pieces",
+"image":"img/coffee.jpg"
+}];
